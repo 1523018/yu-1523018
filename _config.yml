@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: enPiT2018 チュートリアル
+description: github について
+github:
+  is_project_page: false
